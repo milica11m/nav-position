@@ -1,0 +1,49 @@
+
+#logo {
+	float: left;
+	padding: 4px 150px;
+}
+img {
+	width: 50%;
+	height: auto;
+}
+#nav {
+	float: right;
+	padding: 0px 150px;
+}
+li {
+	display: inline;
+	padding: 0px 10px;
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+	font-family:"PT sans", sans-serif;
+	font-size: 20px;
+}
+br {
+	clear: both;
+}
+.lorem {
+	position: relative;
+	width: 190px;
+	height: 130px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 25px 20px;
+	float: left;
+	margin: 200px 50px;
+}
+.circle {
+	position: absolute;
+	top: -35px;
+	left: 80px;
+	border:1px solid black;
+	border-radius: 36px;
+	width: 70px;
+	height: 70px;
+	background-color: black;
+}
